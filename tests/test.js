@@ -11,7 +11,7 @@ describe('Zmienna', () => {
     expect(typeof number).toBe('number');
   });
 
-  it('text powinna być typu ntring', async () => {
+  it('text powinna być typu string', async () => {
     expect(typeof text).toBe('string');
   });
 
