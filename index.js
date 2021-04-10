@@ -1,10 +1,10 @@
 // Zaimplementuj zadanie zgodnie z wytycznymi
 
-let number;
-let text;
-let logic;
-let empty;
-let args;
+let number = 345;
+let text = "String";
+let logic = false;
+let empty = null;
+let args = [1,2,3,4];
 
 module.exports = {
   number,
